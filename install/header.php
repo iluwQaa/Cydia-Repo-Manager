@@ -63,7 +63,7 @@ ob_start();
 				  <span class="icon-bar"></span>
 				  <span class="icon-bar"></span>
 				  <span class="icon-bar"></span> </a>
-				    <a class="brand" href="index.php"> <img alt="Repo CMS Logo" src="img/logo20.png" /> <span>Repo CMS</span></a>
+				    <a class="brand" href="index.php"> <img alt="Repo CMS Logo" src="../admin/img/logo20.png" /> <span>Repo CMS</span></a>
 				  
 				    <!-- theme selector starts -->
 				    <span class="top-nav nav-collapse"><span class="btn-group pull-right theme-container"><a class="btn dropdown-toggle" data-toggle="dropdown" href="http://damar1st.de/updates/cms102.zip"></a></span></span>
